@@ -1,7 +1,6 @@
 streamlit
 opencv-python
 numPy
-pickle
 scikit-learn
 tensorFlow
 pip-upgrader
